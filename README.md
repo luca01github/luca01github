@@ -1,12 +1,13 @@
 <h1 align='center'> Welcome on my Github profile</h1>
 <p align="center">
   Currently engineering student with a passion for programming.<br>
-  I create tools for automating processes and calculations
+  I create tools for automating processes and calculations.
 </p>
 
 ### My links where you can find tools and tutorials:
 
 [Gumroad](devspective.gumroad.com)
+
 [Ko-fi](ko-fi.com/luca0001)
 
 <!--
