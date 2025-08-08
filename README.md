@@ -6,11 +6,11 @@
 
 ### My links where you can find tools and tutorials:
 
-[Gumroad](devspective.gumroad.com)
+[Gumroad](http://devspective.gumroad.com)
 
-[Ko-fi](ko-fi.com/luca0001)
+[Ko-fi](http://ko-fi.com/luca0001)
 
-[C header fo Statistics](devspective.gumroad.com/l/gqwqe)
+[C header fo Statistics](http://devspective.gumroad.com/l/gqwqe)
 
 
 <!--
