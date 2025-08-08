@@ -10,7 +10,7 @@
 
 [Ko-fi](ko-fi.com/luca0001)
 
-[C header for statistics](devspective.gumroad.com/l/gqwqe)
+[devspective.gumroad.com/l/gqwqe]
 
 
 <!--
